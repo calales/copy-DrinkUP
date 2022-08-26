@@ -1,5 +1,7 @@
 PROGETTO UNVERSITARIO
 
+utente calals corrisponde a calales
+
 # drinkUP
 drinkUP è un’applicazione che permette di avere sempre a portata di mano un elenco di ricette per la preparazione casalinga di cocktail, e non solo.
 
@@ -20,33 +22,3 @@ recuperare gli ingredienti che non si hanno in casa.
 (o rimuoverli) a una lista dei preferiti, univoca per ogni dispositivo e
 salvata in locale, così da poter avere accesso più facilmente ai drink di
 maggior interesse.
-
-----------------------------------------------------------------------------
-
-### Work in progress
-- Cocktail
-  - ricerca drink per nome -> fatto
-	- aggiungere tasto per i preferiti -> fatto
-	- fragment preferiti -> fatto
-	- sistemare i tasti prec e succ -> fatto
-	- fare qualcosa per il drink random -> fatto
-	- sistemare foto -> fatto
-	- wiki Ingredient -> fatto
-	- controllare italiano -> fatto
-	- ricerca drink per ingrediente -> fatto
-	- gestione preferiti da ricerca per ingrediente -> fatto
-	- sistemare bottoni prec/succ del fragment preferiti -> fatto
-	- sistemare eliminazione dal fragment preferiti -> fatto
-	- sistemare grafica generale -> fatto
-
-- Mappa
-	- sistemare POI -> fatto
-------------------------------------------------------------------------------
-#### Futuro
-- Mappa
-  - funzione di ricerca
-	- funzione navigatore
-
-- Profilo
-	- gestione profilo nel cloud
-  - inserire e salvare ricette
